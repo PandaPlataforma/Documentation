@@ -20,3 +20,15 @@ Todo el contenido multimedia: personajes, animales, lugares, logos se encuentra 
 ## 5- Componentes
 
 Panda esta conformado por diferentes componentes que apalancan la jugabilidad, el almacenamiento de datos, la instalación y presentación.
+
+## 6- Costos
+
+Los costos asociados a Panda vienen de diferentes fuentes:
+
+| AWS                         | WIX |
+| -------------               | ------------- |
+| LightSail -> $14 - $15 USD  | Site - $17.50 USD  |
+| S3 -> $1 USD                | Email address(2) - $144 USD |
+|                             | Domain plataformapanda.com -> $27.90 USD |
+|                             | Domain pandadescargas.com -> $47.70 USD |
+| Total:  ~$16 USD            | Total:  ~$237 USD |
